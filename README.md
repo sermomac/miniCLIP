@@ -1,5 +1,5 @@
 # miniCLIP
-## A smaller yet effective implementation of CLIP
+## A smaller yet effective implementation of OpenAI CLIP
 
 
 
